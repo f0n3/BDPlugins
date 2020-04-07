@@ -1,0 +1,2 @@
+# BDPlugins
+For Bandaged Discord
